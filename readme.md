@@ -5,6 +5,7 @@
 #### Set these variables in your `.envrc` file
 
 ```
+TF_VAR_availability_zones="['us-east-1a','us-east-1b','us-east-1c']"
 TF_VAR_region="us-east-1"
 AWS_ACCESS_KEY_ID=test
 AWS_SECRET_ACCESS_KEY=test2
